@@ -94,7 +94,7 @@ La fonction prend uniquement la liste en paramètre et ne return rien.
 	La liste contient 0 chunk(s).
 
 **main de l'exemple**
-	
+
 	int main(void) {
 		int i;
 		int size;
@@ -131,12 +131,9 @@ La fonction prend uniquement la liste en paramètre et ne return rien.
 
 ### Conclusion
 
-[FR]
-
 Personnellement, j'ai trouvé la conception de cette librairie intéressante étant donné certaines lacunes de ma part dans cette notion. Faire ces fonctions m'a grandement aidé afin de bien comprendre les listes chainées et leur utilisation. J'ai rencontré plusieurs problèmes sur l'utilisation des pointeurs que je ne maîtrise pas encore totalement mais que je visualise mieux.
 
-[UK]
-
-Personally, I found the creation of this librairie interesting because of some gaps I had in this notion. Doing theses functions help me a lot to understand linked lists and how they work. I met many problems on the use of pointers that I don't understand totally but I visualize better.
-
 Auteur : *César VENZAC*
+
+Tuteurs : *Nicolas VILMAIN et Vincent KHERBACHE*
+
